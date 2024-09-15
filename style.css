@@ -95,15 +95,11 @@ nav:hover {
 }
 
 .welcome h3 {
-  bottom: 46%;
   opacity: 50%;
-  left: 15%;
   font-weight: 50;
 }
 
 .welcome h4 {
-  top: 53%;
-  left: 15%;
   opacity: 50%;
   font-weight: 50;
 }
@@ -117,7 +113,7 @@ nav:hover {
 .welcome h4 {
   color: #d388fb;
   font-size: 60px;
-  position: absolute;
+  position: relative;
   animation: 3s ease-in 0s 1 fadeIn;
 }
 
